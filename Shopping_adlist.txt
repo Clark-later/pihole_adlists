@@ -1,0 +1,4 @@
+(\.|^)zalando\.de$
+(\.|^)hm\.com$
+(\.|^)hessnatur\.com$
+(\.|^)c-and-a\.com$
